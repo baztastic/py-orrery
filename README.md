@@ -1,6 +1,8 @@
 # py-orrery
 An 3-dimensional model of the solar system (orrery) built in python.
 
+![screenshot of solar system](screenshot-2019.06.05.png)
+
 Uses VPython for graphics and Skyfield for planetary ephemeris & positions.
 
 This is inspired by The Expanse series of books as a way to visualise just how huge space is.
